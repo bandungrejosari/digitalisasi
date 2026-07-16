@@ -162,6 +162,10 @@ html,body{
     -webkit-overflow-scrolling: touch;
 }
 
+#searchOverlay input {
+    font-size: 18px;
+}
+
 .search-header{
     display:flex;
     align-items:center;
